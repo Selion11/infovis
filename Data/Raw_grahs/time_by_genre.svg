@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="1000"
+   height="600"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="time_by_genre.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs36">
+    <rect
+       x="43.548387"
+       y="584.96544"
+       width="54.262673"
+       height="12.269585"
+       id="rect38" />
+    <rect
+       x="212.62082"
+       y="224.84041"
+       width="6.3541854"
+       height="14.174721"
+       id="rect37" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview36"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.4466667"
+     inkscape:cx="307.94931"
+     inkscape:cy="189.40092"
+     inkscape:window-width="1920"
+     inkscape:window-height="1112"
+     inkscape:window-x="2392"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="yAxis" />
+  <rect
+     width="1000"
+     height="600"
+     x="7.3317523"
+     y="16.129856"
+     fill="#ffffff"
+     id="background" />
+  <g
+     id="viz">
+    <g
+       transform="translate(0,0)"
+       id="g36">
+      <g
+         transform="translate(50,20)"
+         id="g35">
+        <g
+           class="bars"
+           id="g1">
+          <rect
+             id="undefined - RPG"
+             x="513.1813351367018"
+             y="34.71999999999991"
+             height="525.2800000000001"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Metroidvania / Action-Adventure"
+             x="385.1357356777123"
+             y="244.72000000000003"
+             height="315.28"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Action-Adventure"
+             x="43.68080378707365"
+             y="84.55999999999995"
+             height="475.44000000000005"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Action RPG"
+             x="0.9989373007438189"
+             y="54.88000000000005"
+             height="505.11999999999995"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Utility"
+             x="854.6362670273404"
+             y="486.08"
+             height="73.92000000000002"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Sports"
+             x="726.5906675683509"
+             y="513.52"
+             height="46.48000000000002"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Shooter"
+             x="598.5450681093614"
+             y="493.52799999999996"
+             height="66.47200000000004"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Party / Casual"
+             x="427.8176021640421"
+             y="532"
+             height="28"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Social Deduction"
+             x="683.9088010820211"
+             y="537.6"
+             height="22.399999999999977"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Simulation"
+             x="641.2269345956913"
+             y="538.832"
+             height="21.168000000000006"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Strategy"
+             x="769.2725340546808"
+             y="551.6"
+             height="8.399999999999977"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Adventure"
+             x="86.36267027340348"
+             y="552.048"
+             height="7.951999999999998"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Fighting"
+             x="214.40826973239297"
+             y="553.5600000000001"
+             height="6.439999999999941"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - MOBA"
+             x="342.45386919138247"
+             y="554.064"
+             height="5.9360000000000355"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Visual Novel"
+             x="897.3181335136703"
+             y="556.36"
+             height="3.6399999999999864"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Horror"
+             x="257.0901362187228"
+             y="558.208"
+             height="1.79200000000003"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Sandbox / Adventure"
+             x="555.8632016230316"
+             y="558.432"
+             height="1.5679999999999836"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Casual"
+             x="171.72640324606314"
+             y="559.272"
+             height="0.7279999999999518"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Arcade"
+             x="129.04453675973332"
+             y="560"
+             height="0"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - MMORPG"
+             x="299.7720027050526"
+             y="560"
+             height="0"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Survival"
+             x="811.9544005410106"
+             y="560"
+             height="0"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+          <rect
+             id="undefined - Puzzle"
+             x="470.49946865037197"
+             y="560"
+             height="0"
+             width="41.68292918558594"
+             fill="#1f77b4" />
+        </g>
+        <g
+           id="xAxis"
+           transform="translate(0,560)"
+           fill="none"
+           font-size="10"
+           font-family="sans-serif"
+           text-anchor="middle">
+          <path
+             class="domain"
+             stroke="currentColor"
+             d="M0,0H940"
+             id="path1" />
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(22.531646,-0.8640553)"
+             id="g2">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line1"
+               x1="0"
+               y1="0"
+               x2="0" />
+            <text
+               fill="currentColor"
+               y="-3.9082634"
+               id="text1"
+               dy="7.0999999"
+               x="37.419777"
+               transform="rotate(-90.449487)">Action RPG</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(64.52226837986662,0)"
+             id="g3">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line2" />
+            <text
+               fill="currentColor"
+               y="-5.0955224"
+               dy="7.0999999"
+               id="text2"
+               x="44.925571"
+               transform="rotate(-90.243453)">Action-Adventure</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="rotate(-91.700783,36.277061,-60.093198)"
+             id="g4">
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.70999998em"
+               id="text3">Adventure</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(152.91019,0.34562212)"
+             id="g5">
+            <text
+               fill="currentColor"
+               y="-9.4043779"
+               dy="7.0999999"
+               id="text4"
+               x="-3.7154379">Arcade</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(192.5678678388561,0)"
+             id="g6">
+            <text
+               fill="currentColor"
+               y="2.6923964"
+               dy="7.0999999"
+               id="text5"
+               x="-1.2096775">Casual</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(235.24973432518593,0)"
+             id="g7">
+            <text
+               fill="currentColor"
+               y="-16.144009"
+               dy="7.0999999"
+               id="text6"
+               x="-0.17281106">Fighting</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(277.9316008115158,0)"
+             id="g8">
+            <text
+               fill="currentColor"
+               y="3.470046"
+               dy="7.0999999"
+               id="text7"
+               x="-0.69124424">Horror</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(320.69987,-17.367512)"
+             id="g9">
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.70999998em"
+               id="text8">MMORPG</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(363.29533378417545,0)"
+             id="g10">
+            <text
+               fill="currentColor"
+               y="1.4238559"
+               dy="7.0999999"
+               id="text9"
+               x="-1.2219588">MOBA</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(405.9772002705053,0)"
+             id="g11">
+            <text
+               fill="currentColor"
+               y="-3.4456739"
+               dy="7.0999999"
+               id="text10"
+               x="84.883385"
+               transform="rotate(-91.575451)">Metroidvania / Action-Adventure</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(448.6590667568351,0)"
+             id="g12">
+            <text
+               fill="currentColor"
+               y="-3.0697639"
+               dy="7.0999999"
+               id="text11"
+               x="35.926121"
+               transform="rotate(-89.442571)">Party / Casual</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(491.34093324316495,0)"
+             id="g13">
+            <text
+               fill="currentColor"
+               y="-8.9723501"
+               dy="7.0999999"
+               id="text12"
+               x="-1.2096775">Puzzle</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(534.0227997294947,0)"
+             id="g14">
+            <text
+               fill="currentColor"
+               y="2.4331796"
+               dy="7.0999999"
+               id="text13"
+               x="-1.7281106">RPG</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="rotate(-90.927804,257.21863,-304.75337)"
+             id="g15">
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.70999998em"
+               id="text14">Sandbox / Adventure</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(619.3865327021543,0)"
+             id="g16">
+            <text
+               fill="currentColor"
+               y="-9.1019583"
+               dy="7.0999999"
+               id="text15"
+               x="0.043202765">Shooter</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(659.34536,-32.402473)"
+             id="g17">
+            <text
+               fill="currentColor"
+               y="-2.178942"
+               dy="7.0999999"
+               id="text16"
+               x="-4.6125669"
+               transform="rotate(-89.393376)">Simulation</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(701.35632,0.73782587)"
+             id="g18">
+            <text
+               fill="currentColor"
+               y="-3.205919"
+               dy="7.0999999"
+               id="text17"
+               x="43.027378"
+               transform="rotate(-90.137632)">Social Deduction</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(747.4321321611438,0)"
+             id="g19">
+            <text
+               fill="currentColor"
+               y="2.0875576"
+               dy="7.0999999"
+               id="text18"
+               x="-2.0737326">Sports</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(790.45962,-18.317972)"
+             id="g20">
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.70999998em"
+               id="text19">Strategy</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(832.7958651338035,0)"
+             id="g21">
+            <text
+               fill="currentColor"
+               y="2.1570311"
+               dy="7.0999999"
+               id="text20">Survival</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(875.4777316201333,0)"
+             id="g22">
+            <text
+               fill="currentColor"
+               y="-10.873272"
+               dy="7.0999999"
+               id="text21"
+               x="-1.0368663">Utility</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(918.1595981064632,0)"
+             id="g23">
+            <line
+               stroke="currentColor"
+               y2="6"
+               id="line22" />
+            <text
+               fill="currentColor"
+               y="9"
+               dy="0.71em"
+               id="text22">Visual Novel</text>
+          </g>
+          <text
+             x="485.19736"
+             y="18.578951"
+             text-anchor="end"
+             style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+             id="text23">Genre</text>
+        </g>
+        <g
+           id="yAxis"
+           fill="none"
+           font-size="10"
+           font-family="sans-serif"
+           text-anchor="end">
+          <path
+             class="domain"
+             stroke="currentColor"
+             d="M-6,560H0V0H-6"
+             id="path23" />
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,560)"
+             id="g24">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line23" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text24">0</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,504)"
+             id="g25">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line24" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text25">10</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,448)"
+             id="g26">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line25" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text26">20</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,392)"
+             id="g27">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line26" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text27">30</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,336)"
+             id="g28">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line27" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text28">40</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,280)"
+             id="g29">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line28" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text29">50</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,224)"
+             id="g30">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line29" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text30">60</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,168.00000000000003)"
+             id="g31">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line30" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text31">70</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,111.99999999999997)"
+             id="g32">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line31" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text32">80</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,55.999999999999986)"
+             id="g33">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line32" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text33">90</text>
+          </g>
+          <g
+             class="tick"
+             opacity="1"
+             transform="translate(0,0)"
+             id="g34">
+            <line
+               stroke="currentColor"
+               x2="-6"
+               id="line33" />
+            <text
+               fill="currentColor"
+               x="-9"
+               dy="0.32em"
+               id="text34">100</text>
+          </g>
+          <text
+             x="-305.41061"
+             text-anchor="start"
+             dominant-baseline="hanging"
+             style="font-weight:bold;font-size:12px;font-family:Arial, sans-serif;fill:#7b7b7b"
+             id="text35"
+             y="-40.285042"
+             transform="rotate(-89.723941)">Time Played (hours)</text>
+          <text
+             xml:space="preserve"
+             transform="translate(-50,-20)"
+             id="text37"
+             style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;white-space:pre;shape-inside:url(#rect37)" />
+          <text
+             xml:space="preserve"
+             transform="translate(-50,-20)"
+             id="text38"
+             style="fill:#000000;text-align:start;writing-mode:lr-tb;text-orientation:auto;direction:ltr;white-space:pre;shape-inside:url(#rect38)" />
+        </g>
+      </g>
+      <text
+         y="4"
+         x="4"
+         style="font-family: Arial, sans-serif; font-size: 12px; fill: black; font-weight: bold; dominant-baseline: hanging;"
+         id="text36" />
+    </g>
+  </g>
+</svg>
